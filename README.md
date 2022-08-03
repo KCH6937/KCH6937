@@ -16,7 +16,6 @@
 
 #
 ![KCH6937's github stats](https://github-readme-stats.vercel.app/api?username=KCH6937&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KCH6937&layout=compact&theme=tokyonight)
 
 #
 <h3>📩 Contact 📩</h3>
