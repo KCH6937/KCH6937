@@ -10,7 +10,7 @@
 
 <p><img src="https://img.shields.io/badge/Express-gray?style=flat&logo=Express&logoColor=#A8B9CC"/>&nbsp;<img src="https://img.shields.io/badge/Sequelize-gray?style=flat&logo=Sequelize&logoColor=#A8B9CC"/>&nbsp;<img src="https://img.shields.io/badge/TypeORM-gray?style=flat&logo=npm&logoColor=#A8B9CC"/></p>
 
-<p><img src="https://img.shields.io/badge/MySQL-lightgray?style=flat&logo=MySQL&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Sqlite-lightgray?style=flat&logo=Sqlite&logoColor=lightblue"/></p>
+<p><img src="https://img.shields.io/badge/MySQL-lightgray?style=flat&logo=MySQL&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Sqlite-lightgray?style=flat&logo=Sqlite&logoColor=lightblue"/>&nbsp;<img src="https://img.shields.io/badge/Redis-lightgray?style=flat&logo=Redis&logoColor=red"/></p>
 
 <p><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-white?style=flat&logo=Git&logoColor=F05032"/></p>
 
