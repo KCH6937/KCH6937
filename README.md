@@ -6,12 +6,14 @@
 
 #
 <h3>🔥 Tech Stack 🔥</h3>
-<p><img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Node.js-c2c5c5?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Sequelize-lightgray?style=flat&logo=Sequelize&logoColor=#A8B9CC"/></p>
+<p><img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;<img src="https://img.shields.io/badge/Typescript-black?style=flat&logo=Typescript&logoColor=#00BFFF"/>&nbsp;<img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;</p>
 
-<p><img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Sqlite-lightblue?style=flat&logo=Sqlite&logoColor=7952B3"/></p>
+<p><img src="https://img.shields.io/badge/Express-gray?style=flat&logo=Express&logoColor=#A8B9CC"/>&nbsp;<img src="https://img.shields.io/badge/Sequelize-gray?style=flat&logo=Sequelize&logoColor=#A8B9CC"/>&nbsp;<img src="https://img.shields.io/badge/TypeORM-gray?style=flat&logo=npm&logoColor=#A8B9CC"/></p>
+
+<p><img src="https://img.shields.io/badge/MySQL-lightgray?style=flat&logo=MySQL&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Sqlite-lightgray?style=flat&logo=Sqlite&logoColor=lightblue"/></p>
 
 <p><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-white?style=flat&logo=Git&logoColor=F05032"/></p>
-  
+
 #
 ![KCH6937's github stats](https://github-readme-stats.vercel.app/api?username=KCH6937&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KCH6937&layout=compact&theme=tokyonight)
