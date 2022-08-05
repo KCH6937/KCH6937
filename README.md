@@ -6,7 +6,7 @@
 
 #
 <h3>🔥 Tech Stack 🔥</h3>
-<p><img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;<img src="https://img.shields.io/badge/Typescript-black?style=flat&logo=Typescript&logoColor=#00BFFF"/>&nbsp;<img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;</p>
+<p><img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=F7DF1E"/>&nbsp;<img src="https://img.shields.io/badge/Typescript-black?style=flat&logo=Typescript&logoColor=#00BFFF"/>&nbsp;<img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;<img src="https://img.shields.io/badge/Swift-black?style=flat&logo=Swift&logoColor=orange"/>&nbsp;</p>
 
 <p><img src="https://img.shields.io/badge/Express-gray?style=flat&logo=Express&logoColor=#A8B9CC"/>&nbsp;<img src="https://img.shields.io/badge/Sequelize-gray?style=flat&logo=Sequelize&logoColor=#A8B9CC"/>&nbsp;<img src="https://img.shields.io/badge/TypeORM-gray?style=flat&logo=npm&logoColor=#A8B9CC"/></p>
 
